@@ -2,10 +2,8 @@
 
 I'm a backend-focused developer with full-stack potential specialize in automating workflows and extracting actionable insights from complex datasets using Python, Selenium, and BeautifulSoup. Currently expanding my expertise in data engineering, big data pipelines, and the Django framework, I transform raw data into meaningful visualizations and reports, solving real-world problems with precision.
 <br />
-<br />
 
 ### 🧰 Languages and Tools
-
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -19,13 +17,10 @@ I'm a backend-focused developer with full-stack potential specialize in automati
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <br />
-<br />
 
 ### 📊 Stats 
-<br />
 
 ![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=faisalrafiq031&show_icons=true&theme=gruvbox)
-
 
 #
 <details>
