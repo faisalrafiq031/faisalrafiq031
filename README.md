@@ -3,6 +3,7 @@
 </h1>
 
 I'm a backend-focused developer with full-stack potential specialize in automating workflows and extracting actionable insights from complex datasets using Python, Selenium, and BeautifulSoup. Currently expanding my expertise in data engineering, big data pipelines, and the Django framework, I transform raw data into meaningful visualizations and reports, solving real-world problems with precision.
+
 <br />
 
 ### 🧰 Languages and Tools
@@ -10,11 +11,25 @@ I'm a backend-focused developer with full-stack potential specialize in automati
 
 [![My Skills](https://skillicons.dev/icons?i=py,sklearn,selenium,tensorflow,ubuntu,js,html,css,c,django,docker,linux,netlify,rust,cpp)](https://skillicons.dev)
 
+<br />
 
-### 📊 Stats 
+<div align="center"> 
+  <a href="mailto:frafiq031@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/faisal-rafiq-159040269/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://faisalrafiq031.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+### 📊 Stats & Languages
 
 
 ![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=faisalrafiq031&show_icons=true&theme=gruvbox)
+<img width=325 align="right" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=faisalrafiq031&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 #
 <details>
