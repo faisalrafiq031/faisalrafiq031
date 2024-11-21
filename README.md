@@ -27,7 +27,7 @@ I'm a backend-focused developer with full-stack potential specialize in automati
 #
 <details>
  <summary><h3>👨‍💻 Faisal's Coding Journey</h3></summary>
-   I started learning to code as a student in 2023, beginning with HTML, then CSS, and basic JavaScript. During this time, I built several basic-level frontend projects, including a weather app, YouTube clone, Netflix clone, and LMS clone, which gave me a strong foundation in web development.
+   I started learning to code as a student in 2020, beginning with HTML, then CSS, and basic JavaScript. During this time, I built several basic-level frontend projects, including a weather app, YouTube clone, Netflix clone, and LMS clone, which gave me a strong foundation in web development.
 
 As a computer science student, I also dabbled in C and C++ basics, further deepening my understanding of programming fundamentals.
 
