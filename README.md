@@ -28,8 +28,9 @@ I'm a backend-focused developer with full-stack potential specialize in automati
 ### 📊 Stats & Languages
 
 
-![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=faisalrafiq031&show_icons=true&theme=gruvbox)
-<img width=325 align="right" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=faisalrafiq031&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=faisalrafiq031&show_icons=true&theme=react) 
+<img width=325 align="right" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=faisalrafiq031&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=5&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
 
 #
 <details>
