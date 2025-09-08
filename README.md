@@ -9,7 +9,7 @@ I'm a backend-focused developer with full-stack potential specialize in automati
 ### 🧰 Languages and Tools
 <br />
 
-[![My Skills](https://skillicons.dev/icons?i=py,sklearn,selenium,tensorflow,ubuntu,js,html,css,c,django,docker,linux,netlify,rust,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,selenium,tensorflow,apache,azure,html,css,js,django,docker,nextjs,netlify,vercel)](https://skillicons.dev)
 
 <br />
 
